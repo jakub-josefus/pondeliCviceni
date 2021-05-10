@@ -7879,5 +7879,8 @@ html, body {
 @media only screen and (max-width: 576px) {
   #home h1 {
     font-size: 16vw; } }
+@media only screen and (max-width: 991px) {
+  .navbar {
+    height: auto; } }
 
 /*# sourceMappingURL=style.css.map */
